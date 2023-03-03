@@ -16,6 +16,6 @@ The controller includes :
 - a potentiometer
 - a 4x7 segments display
 
-[itch.io](https://loukadoz.itch.io/plateformer-project)
-[Custom controller Arduino code](custom_controller/)
+[itch.io](https://loukadoz.itch.io/plateformer-project)\
+[Custom controller Arduino code](custom_controller/)\
 [Custom controller demo video](https://youtu.be/EHdknE6w5Jc)
