@@ -10,11 +10,13 @@ It was an introduction to game developping in Unity and to allow playing with a 
 ## Custom controller
 
 The controller includes :
-- an accelerometer MPU-6050
-- a tone générator
-- a button
-- a potentiometer
-- a 4x7 segments display
+| Component              | Use                                    |
+| ---------------------- | -------------------------------------- |
+| Accelerometer MPU-6050 | Move, sprint, jump                     |
+| Button                 | Dash                                   |
+| Tone générator         | Hit sound, win music, lose music       |
+| Potentiometer          | Sound volume                           |
+| 4x7 segments display   | Show health, win message, lose message |
 
 [itch.io](https://loukadoz.itch.io/plateformer-project)\
 [Custom controller Arduino code](custom_controller/)\
